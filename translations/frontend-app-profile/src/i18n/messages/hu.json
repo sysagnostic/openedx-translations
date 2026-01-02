@@ -35,7 +35,7 @@
   "profile.education.levels.none": "Nincs formális oktatás",
   "profile.education.levels.o": "Egyéb oktatás",
   "profile.name.full.name": "Teljes név",
-  "profile.name.empty": "Adja meg a teljes nevet",
+  "profile.name.empty": "Adja meg a teljes nevét",
   "profile.name.tooltip": "A név, amelyet az azonosító ellenőrzéséhez használnak, és amely a bizonyítványokon megjelenik.",
   "profile.name.redirect": "A teljes név szerkesztése a Fiókok oldalon",
   "profile.preferredlanguage.empty": "Nyelv hozzáadása",
