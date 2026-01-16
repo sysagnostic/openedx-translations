@@ -24490,7 +24490,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:29
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:116
 msgid "Instructor Dashboard"
-msgstr "oktatói irányítópult"
+msgstr "Oktatói irányítópult"
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html:119
 msgid "View Course in Studio"
