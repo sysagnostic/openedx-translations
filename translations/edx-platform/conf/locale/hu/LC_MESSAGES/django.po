@@ -24114,6 +24114,20 @@ msgstr ""
 "Kattintson ide a bizonyítványok listázásához, amelyeket ehhez a kurzushoz "
 "adtak ki:"
 
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:86
+msgid "View Certificates Issued"
+msgstr "Kiállított bizonyítványok megtekintése"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:87
+msgid "Download CSV of Certificates Issued"
+msgstr "Bizonyítványok letöltése CSV formátumban"
+
+#: lms/templates/instructor/instructor_dashboard_2/data_download.html:94
+msgid ""
+"For smaller courses, click to list profile information for enrolled students "
+"directly on this page:"
+msgstr "Kisebb kurzusok esetén kattintson ide, hogy közvetlenül ezen az oldalon listázza a beiratkozott diákok profilinformációit:"
+
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:95
 msgid "List enrolled students' profile information"
 msgstr "A beiratkozott diákok profilinformációinak listázása"
@@ -24328,6 +24342,10 @@ msgid ""
 msgstr ""
 "Válasszon ki egy értékelt alrészt, és kattintson a gombra, hogy megkapja "
 "azon diákok listáját, akiknek hosszabbításuk van az adott alrészre."
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
+msgid "Specify a student to see all of that student's extensions."
+msgstr "Adjon meg egy diákot, hogy láthassa az összes hosszabbítást, amit az adott diáknak adtak."
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:74
 msgid "List date extensions for student"

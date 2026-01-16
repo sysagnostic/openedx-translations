@@ -1935,6 +1935,10 @@ msgstr ""
 msgid "Showing {firstIndex} out of {numItems} total"
 msgstr "Megjelenítve {firstIndex} a {numItems} összesből"
 
+#: common/static/common/js/components/views/paging_header.js:43
+msgid "Showing {firstIndex}-{lastIndex} out of {numItems} total"
+msgstr "Megjelenítve {firstIndex}-{lastIndex} a {numItems} összesből"
+
 #: common/static/common/js/discussion/utils.js:154
 msgid "Loading content"
 msgstr "Tartalom betöltése"
@@ -3519,6 +3523,9 @@ msgid "An error has occurred. Check your Internet connection and try again."
 msgstr "Hiba történt. Ellenőrizze az internetkapcsolatát, majd próbálja újra."
 
 #: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:22
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:57
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:100
 msgid "Choose one"
 msgstr "Válasszon egyet"
 
