@@ -188,6 +188,12 @@ msgid "Peer"
 msgstr "Társ"
 
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:309
+#: xblock/static/js/src/lms/oa_course_items_listing.js:137
+#: xblock/static/js/src/lms/oa_course_items_listing.js:138
+msgid "Self"
+msgstr "Önértékelés"
+
+#: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:309
 #: xblock/static/js/src/lms/oa_course_items_listing.js:145
 #: xblock/static/js/src/lms/oa_course_items_listing.js:146
 msgid "Waiting"
