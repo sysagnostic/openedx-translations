@@ -21602,7 +21602,7 @@ msgstr "Kérlek írj be egy érvényes CCX nevet."
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:13
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:103
 msgid "Email Addresses/Usernames"
-msgstr "Email cím/elhasználói név"
+msgstr "Email címek/felhasználói nevek"
 
 #: lms/templates/ccx/enrollment.html:14
 msgid ""
