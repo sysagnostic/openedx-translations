@@ -24323,6 +24323,10 @@ msgstr ""
 msgid "Reason for extension"
 msgstr "A hosszabbítás oka"
 
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:39
+msgid "Change due date for student"
+msgstr "Diáknak megszabott határidő megváltoztatása"
+
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:45
 msgid "Viewing granted extensions"
 msgstr "Megtekintett engedélyezett hosszabbítások"
@@ -24342,6 +24346,10 @@ msgid ""
 msgstr ""
 "Válasszon ki egy értékelt alrészt, és kattintson a gombra, hogy megkapja "
 "azon diákok listáját, akiknek hosszabbításuk van az adott alrészre."
+
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:63
+msgid "List all students with due date extensions"
+msgstr "Sorolja fel az összes hallgatót, akiknek határidő-hosszabbításuk van"
 
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:67
 msgid "Specify a student to see all of that student's extensions."
