@@ -3522,13 +3522,6 @@ msgstr "Nem sikerült benyújtani az alkalmazást"
 msgid "An error has occurred. Check your Internet connection and try again."
 msgstr "Hiba történt. Ellenőrizze az internetkapcsolatát, majd próbálja újra."
 
-#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
-#: lms/templates/instructor/instructor_dashboard_2/extensions.html:22
-#: lms/templates/instructor/instructor_dashboard_2/extensions.html:57
-#: lms/templates/instructor/instructor_dashboard_2/extensions.html:100
-msgid "Choose one"
-msgstr "Válasszon egyet"
-
 #: lms/static/js/groups/views/cohort_editor.js:63
 #: lms/templates/instructor/instructor_dashboard_2/cohort-editor.underscore:5
 msgid "Selected tab"

@@ -24308,6 +24308,13 @@ msgstr "Hallgatói e-mail, vagy felhasználói név"
 msgid "Choose the graded subsection:"
 msgstr "Válassza ki az értékelt alrészt:"
 
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:158
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:22
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:57
+#: lms/templates/instructor/instructor_dashboard_2/extensions.html:100
+msgid "Choose one"
+msgstr "Válasszon egyet"
+
 #. Translators: "format_string" is the string MM/DD/YYYY HH:MM, as that is the
 #. format the system requires.
 #: lms/templates/instructor/instructor_dashboard_2/extensions.html:31
