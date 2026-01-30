@@ -22023,7 +22023,7 @@ msgstr "Hiba történt. Próbáld újra."
 
 #: lms/templates/courseware/course_about.html:88
 msgid "You are enrolled in this course"
-msgstr "Már feliratkoztál be erre a kurzusra"
+msgstr "Már beiratkoztál erre a kurzusra"
 
 #: lms/templates/courseware/course_about.html:91
 #: lms/templates/courseware/course_about.html:109
